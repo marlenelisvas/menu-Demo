@@ -1,10 +1,14 @@
 
 # menu-Demo
 
-![drawing](img/screen-4.png)
+1. ![drawing](img/screen-4.png)
 
-![drawing](img/screen-3.png)
+---
 
-![drawing](img/screen-2.png)
+2. ![drawing](img/screen-3.png)
+
+---
+
+3. ![drawing](img/screen-2.png)
 
 
